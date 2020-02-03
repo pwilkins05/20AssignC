@@ -20,13 +20,16 @@ total number of pips on those dice.  For example, if your rolled three 4s, that 
 
 Lower section:
 
-Three-of-a-kind:
+Three-of-a-kind:At least three of the dice must show the same value. The score is equal to the sum
+of all of the values showing on the dice. 
 
-Four-of-a-kind:
+Four-of-a-kind: At least four of the dice must show the same value. The score is equal to the sum of
+all of the values showing on the dice. 
 
-Full House:
+Full House:The dice must show three of one value and two of another value (Special case: a five-ofa-kind also counts as a full house). The score is 25 points. 
 
-Small Straight:
+Small Straight: The dice must contain at least four consecutive values, such as the sequence 2-3-4-
+5. The score is 30 points. 
 
 Large Straight: The dice rolled have five consecutive values. Such as 2-3-4-5-6. This is worth 40 points.
 
