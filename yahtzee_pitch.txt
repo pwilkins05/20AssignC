@@ -1,0 +1,8 @@
+// Todo: Someone please proofread this
+
+Pitch:
+
+This is a multiplayer app available on all major platforms (Consoles, Pc, Phones, Smart Devices, ect) that connects people all over the world so they cab play yahtzee togetherr.
+
+It will have a slick design and easy to use interface. Players can create avatars or upload images to represent themselves in game. 
+Players can add friends and create groups within the game to compete against eachotherr. It will have a leaderboard to keep track of the best scores in groups. 

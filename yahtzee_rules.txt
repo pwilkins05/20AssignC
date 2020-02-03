@@ -28,7 +28,7 @@ Full House:
 
 Small Straight:
 
-Large Straight: The dice rolled have five consecutive values. Such as 4-5-6-7-8. This is worth 40 points.
+Large Straight: The dice rolled have five consecutive values. Such as 2-3-4-5-6. This is worth 40 points.
 
 Yahtzee: All five of the dice share the same value. This is worth 50 points.  
 
