@@ -11,6 +11,18 @@ Scoring:
 
 Upper section:
 
+Aces: Player adds the sum of the dice with the number 1
+
+Twos: Player adds the sum of the dice with the number 2
+
+Threes: Player adds the sum of the dice with the number 3
+
+Fours: Player adds the sum of the dice with the number 4
+
+Fives: Player adds the sum of the dice with the number 5
+
+Sixes: Player adds the sum of the dice with the number 6
+
 
 Categories are ones, twos, threes, fours, fives, and sixes.  In each category, to number of points scored is equal to the 
 total number of pips on those dice.  For example, if your rolled three 4s, that would score 12 in the fours category.
@@ -26,7 +38,7 @@ of all of the values showing on the dice.
 Four-of-a-kind:At least four of the dice must show the same value. The score is equal to the sum of
 all of the values showing on the dice. 
 
-Full House:The dice must show three of one value and two of another value (Special case: a five-ofa-kind also counts as a full house). The score is 25 points.
+Full House:The dice must show three of one value and two of another value (Special case: a five-of-a-kind also counts as a full house). The score is 25 points.
 
 Small Straight:The dice must contain at least four consecutive values, such as the sequence 2-3-4-
 5. The score is 30 points.
