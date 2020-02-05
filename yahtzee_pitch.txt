@@ -2,7 +2,7 @@
 
 Pitch:
 
-This is a multiplayer app available on all major platforms (Consoles, Pc, Phones, Smart Devices, etc) that connects people all over the world so they cab play Yahtzee together.
+This is a multiplayer app available on all major platforms (Consoles, Pc, Phones, Smart Devices, etc) that connects people all over the world so they can play Yahtzee together.
 
 It will have a slick design and easy to use interface. Players can create avatars or upload images to represent themselves in game. 
 Players can add friends and create groups within the game to compete against each other. It will have a leaderboard to keep track of the best scores in groups. 
