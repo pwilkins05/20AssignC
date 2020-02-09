@@ -1,0 +1,9 @@
+The next game after Yahtzee should be old maid.
+
+Old Maid is a game where there is one extra card in the deck and the goal is to not have that card after all others have been paired. 
+This game uses a standard deck and players are dealt cards until the deck runs out, one player then should have the old maid card. Players then remove any paired cards they have. After this phase, players then are asked to choose a card from the deck of the player to the left of them.
+
+The player left with the last card loses in the standard version of Old maid, but before the game begins, this app allows the rules to change and make it so that the one left with the old maid is the only winner, instead of loser.
+
+Players can also customize their avatar, play with friends and shares many of the othe social features that the companion app of Yahtzee will have.  
+Players can on this app, push up certain cards to make them stand out or use their avata to select from a preset of expressions. Voice chat is also enabled in this game, but it can be turned off.  
